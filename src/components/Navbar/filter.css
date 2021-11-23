@@ -1,0 +1,16 @@
+.text-bold{
+    font-weight: bold;
+}
+.filter-title{
+    padding: 6% 0;
+    text-align: center;
+}
+
+.delete{
+    color: red;
+    text-decoration: underline;
+}
+.delete-icon{
+    vertical-align: middle;
+    height: 24px;
+}
